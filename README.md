@@ -1,3 +1,7 @@
+## Warning :warning:
+
+This branch is stale. Now, we're dynamically generating the `subgraph.yaml` file with [handlebars.js](https://github.com/wycats/handlebars.js/). See the [master](https://github.com/sablierhq/sablier-subgraph/tree/master) branch.
+
 ## Sablier Subgraph
 
 The Graph is a tool that helps dapps index their blockchain data so that users don't have to wait hours or more for the
